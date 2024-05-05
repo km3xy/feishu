@@ -15,7 +15,7 @@ use  name
 km3xy@qq
 
 
-password    *************
+password    xxx*****xxx
 
 
 设置图标齿轮⚙   可以更换脑图背景样式
