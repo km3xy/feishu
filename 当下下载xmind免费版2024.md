@@ -12,7 +12,7 @@ https://m.downxia.com/downinfo/226708.html
 use  name
 
 
-km3xy@qq.com
+km3xy@qq
 
 
 password    *************
